@@ -1,7 +1,14 @@
 # Ridgeline Plot in Python
+
 ## To view the video
-* [Click here](https://youtu.be/GCTsRLJ1dfU)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=GCTsRLJ1dfU" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/GCTsRLJ1dfU?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Ridgeline Plot in Python](http://img.youtube.com/vi/GCTsRLJ1dfU/0.jpg)](http://www.youtube.com/watch?v=GCTsRLJ1dfU)
 
